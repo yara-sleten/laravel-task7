@@ -14,3 +14,4 @@
    * عرض صقحة الفئات من الرابط : /categories
 
 
+* blog_project.sql باسم  database  ملف الداتا بيز موجود ضمن  
