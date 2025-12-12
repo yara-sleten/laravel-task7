@@ -15,3 +15,5 @@
 
 
 * blog_project.sql باسم  database  ملف الداتا بيز موجود ضمن  
+
+* screenshots صور الموقع التجريبة ضمن مجلد 
